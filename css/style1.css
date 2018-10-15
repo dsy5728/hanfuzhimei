@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.warp{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 1em;
+    
+}
+.right{
+    
+    width:45%;
+    padding-left: 1.5em;
+    height: 400em;
+}
+.left{
+    width:45%;
+    height: 400em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
